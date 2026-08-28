@@ -28,10 +28,4 @@ Open http://localhost:3000.
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-localhost
->>>>>>> 3552a3e (Initial PulseMeet app)
+Deployed on Netlify. The Next.js app lives in `src/`, so `netlify.toml` sets `base = "src"` and builds with `npm run build`.
